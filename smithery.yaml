@@ -1,0 +1,11 @@
+# Smithery.ai configuration
+startCommand:
+  type: stdio
+  configSchema:
+    {} # No config options yet, can be expanded later
+  commandFunction: |-
+    (config) => ({
+      command: "python",
+      args: ["main.py"],
+      env: {}
+    })
