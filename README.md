@@ -1,6 +1,6 @@
 # UltimateCoder MCP — The Developer’s Local Superpower
 
-Smithery link: [[fastmcp](https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp)](https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp)
+Smithery link: [https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp](https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp)](https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp)
 
 UltimateCoder turns your local machine into a surgical code command center.  
 Built on  [fastmcp](https://github.com/jlowin/fastmcp), UltimateCoder delivers total control over your filesystem, processes, and codebase — with AI-enhanced precision.
