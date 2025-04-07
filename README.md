@@ -1,6 +1,6 @@
 # UltimateCoder MCP — The Developer’s Local Superpower
 
-Forget sluggish editors, fragmented workflows, or AI tools limited by their sandbox.  
+
 UltimateCoder turns your local machine into a surgical code command center.  
 Built on the [fastmcp](https://github.com/jlowin/fastmcp), UltimateCoder delivers total control over your filesystem, processes, and codebase — with AI-enhanced precision.
 
