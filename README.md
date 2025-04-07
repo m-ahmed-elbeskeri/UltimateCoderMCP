@@ -1,5 +1,7 @@
 # UltimateCoder MCP — The Developer’s Local Superpower
 
+[![smithery badge](https://smithery.ai/badge/@m-ahmed-elbeskeri/ultimatecodermcp)](https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp)
+
 Forget sluggish editors, fragmented workflows, or AI tools limited by their sandbox.  
 UltimateCoder turns your local machine into a surgical code command center.  
 Built on the [fastmcp](https://github.com/jlowin/fastmcp), UltimateCoder delivers total control over your filesystem, processes, and codebase — with AI-enhanced precision.
@@ -54,6 +56,14 @@ Built for builders. Loved by automation architects. Trusted by power users.
 
 
 ## Installation
+
+### Installing via Smithery
+
+To install ultimatecodermcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp):
+
+```bash
+npx -y @smithery/cli install @m-ahmed-elbeskeri/ultimatecodermcp --client claude
+```
 
 ### Requirements
 
