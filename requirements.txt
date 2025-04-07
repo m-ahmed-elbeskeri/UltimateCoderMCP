@@ -1,0 +1,5 @@
+fastmcp
+pandas
+numpy
+flake8
+pylint
