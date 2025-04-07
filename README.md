@@ -1,4 +1,13 @@
-# UltimateCoder MCP — The Developer’s Local Superpower
+# UltimateCoder MCP
+
+Local-first automation server for developers and engineers — automate terminal commands, edit files, and power up your AI tools.
+
+<p align="left">
+  <a href="https://buymeacoffee.com/m.ahmed.elbesk?new=1"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=flat-square" alt="Buy Me a Coffee"></a>
+  <a href="https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp"><img src="https://img.shields.io/badge/Smithery-Deployed-blue?style=flat-square" alt="Smithery"></a>
+  <a href="https://github.com/m-ahmed-elbeskeri/UltimateCoderMCP/releases"><img src="https://img.shields.io/github/downloads/m-ahmed-elbeskeri/UltimateCoderMCP/total?style=flat-square" alt="Downloads"></a>
+  <a href="https://github.com/m-ahmed-elbeskeri/UltimateCoderMCP/stargazers"><img src="https://img.shields.io/github/stars/m-ahmed-elbeskeri/UltimateCoderMCP?style=flat-square" alt="Stars"></a>
+</p>
 
 Smithery link: [https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp](https://smithery.ai/server/@m-ahmed-elbeskeri/ultimatecodermcp)
 
