@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/m-ahmed-elbeskeri-ultimatecodermcp-badge.png)](https://mseep.ai/app/m-ahmed-elbeskeri-ultimatecodermcp)
+
 # UltimateCoder MCP
 
 Local-first automation server for developers and engineers — automate terminal commands, edit files, and power up your AI tools.
